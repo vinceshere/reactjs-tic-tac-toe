@@ -7,5 +7,8 @@ This is my first ReactJS project. Please ignore the lack of automated tests and 
 
 ## How to run
 
-`npm install`
-`npm start`
+`npm install` to install dependencies.
+
+`npm start` to start the Webpack server in http://localhost:3000
+
+`npm build` to generate plain HTML, CSS and JS files for deploy.
