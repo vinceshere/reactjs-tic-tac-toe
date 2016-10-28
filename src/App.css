@@ -1,0 +1,33 @@
+.board{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  flex-wrap: wrap;
+  width: 600px;
+  margin: 25px;
+  border: 2.5px solid #000;
+}
+
+.board .square{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
+  border: 2.5px solid #000;
+  font-size: 5em;
+}
+.turn{
+  margin: 0 25px;
+}
+
+.turn p{
+  font-size: 50px;
+}
+
+button{
+  font-size: 30px;
+  margin-left: 30px;
+}
