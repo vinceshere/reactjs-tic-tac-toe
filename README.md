@@ -4,6 +4,8 @@
 
 This is my first ReactJS project. Please ignore the lack of automated tests and code standards!
 
+[Live Demo](http://www.v1nce.com.br/tic-tac-toe)
+
 
 ## How to run
 
